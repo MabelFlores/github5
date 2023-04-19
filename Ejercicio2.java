@@ -5,4 +5,13 @@ public class P15 {
 		 int codigo;
 	        Scanner sc = new Scanner(System.in);
 	        do{
+	        	System.out.println("Introduce un numero mayor que 0");
+	            codigo=sc.nextInt();
+	        }while(codigo<=0);
+	        System.out.println(codigo);
+	 }
+
+}
+
+	        }
 }
