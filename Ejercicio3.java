@@ -12,3 +12,11 @@ public class P16 {
          case "miercoles":
          case "jueves":
          case "viernes":
+        	 System.out.println("Es un dia laboral");
+             break;
+         case "sabado":
+         case "domingo":
+             System.out.println("Es un dia festivo");
+         default:
+             System.out.println("Introduce un dia de la semana");
+     }
