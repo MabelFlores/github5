@@ -7,4 +7,13 @@ public class P14 {
 	        System.out.println("Introduce un numero");
 	        int numero=sc.nextInt();
 	        if (numero%2==0){
+	        	System.out.println("El numero "+numero+" es divisible entre 2");
+	        }else{
+	            System.out.println("El numero "+numero+" no es divisible entre 2");
+	        }
+	 }
+
+}
+
+	        }
 }
