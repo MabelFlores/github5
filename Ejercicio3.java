@@ -21,4 +21,4 @@ public class P16 {
              System.out.println("Introduce un dia de la semana");
      }
 		 
-		 Línea para Merge
+		 Línea para Merge arreglado
